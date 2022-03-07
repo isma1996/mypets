@@ -9,7 +9,7 @@ function Home() {
 
            <Card style={{width:'100%',height:'480px' ,
          textAlign:'center', border:'solid', borderColor:'black' , backgroundColor:'rgba(230, 154, 154, 0.904)'}}>
-        <Card.Img variant="top" style={{height:'50%'}} src="/images/chat.jpg"/>
+        <Card.Img variant="top" style={{height:'50%'}} src="/images/image2.jpg"/>
         <Card.Body style={{height:'50%'}}  >
           <Card.Title  style={{ fontSize:'30px',fontFamily:'bold',height:'10%'}}>Animaux</Card.Title>
           <br></br>  <br></br>  <br></br>
@@ -25,7 +25,7 @@ function Home() {
         <Carousel.Item style={{width:'80%',paddingLeft:'25%'}}>
         <Card style={{width:'100%',height:'480px' ,
          textAlign:'center', border:'solid', borderColor:'black' , backgroundColor:'rgba(230, 154, 154, 0.904)'}}>
-        <Card.Img variant="top" style={{height:'50%'}} src="/images/ois.jpg"/>
+        <Card.Img variant="top" style={{height:'50%'}} src="/images/image3.jpg"/>
         <Card.Body style={{height:'50%'}}  >
           <Card.Title  style={{ fontSize:'30px',fontFamily:'bold',height:'10%'}}>Oiseaux</Card.Title>
           <br></br>  <br></br>  <br></br>
@@ -42,7 +42,7 @@ function Home() {
         <Carousel.Item style={{width:'80%',paddingLeft:'25%'}}>
         <Card style={{width:'100%',height:'480px' ,
          textAlign:'center', border:'solid', borderColor:'black' , backgroundColor:'rgba(230, 154, 154, 0.904)'}}>
-        <Card.Img variant="top" style={{height:'50%'}} src="/images/makla.jpg"/>
+        <Card.Img variant="top" style={{height:'50%'}} src="/images/food.jpg"/>
         <Card.Body style={{height:'50%'}}  >
           <Card.Title  style={{ fontSize:'30px',fontFamily:'bold',height:'10%'}}>Food</Card.Title>
           <br></br>  <br></br>  <br></br>
