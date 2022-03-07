@@ -12,25 +12,25 @@ function App() {
  
  var m=[
     {
-      "nom": "Tom",
+      "nom": "Bichet",
       "espece": "chat",
-      "age": 2,
+      "age": 1,
       "descr": "un chat hyper gentil",
       "image": "/images/image2.jpg",
  
     
     },
     {
-      "nom": "Greta",
+      "nom": "lyloch",
       "espece": "Chien",
-      "age": 5,
+      "age": 2,
       "descr": "une chienne adorable pour les enfants",
       "image": "/images/image6.jpg",
       
     
     },
     {
-      "nom": "Brandon",
+      "nom": "Alex",
       "espece": "Chien",
       "age": 10,
       "descr": "gentil avec tout le monde et incroyablement docile",
