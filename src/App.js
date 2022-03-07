@@ -16,7 +16,7 @@ function App() {
       "espece": "chat",
       "age": 2,
       "descr": "un chat hyper gentil",
-      "image": "/images/Tom.jpg",
+      "image": "/images/image2.jpg",
  
     
     },
@@ -25,7 +25,7 @@ function App() {
       "espece": "Chien",
       "age": 5,
       "descr": "une chienne adorable pour les enfants",
-      "image": "/images/Greta.jpg",
+      "image": "/images/image6.jpg",
       
     
     },
@@ -34,7 +34,7 @@ function App() {
       "espece": "Chien",
       "age": 10,
       "descr": "gentil avec tout le monde et incroyablement docile",
-      "image": "/images/Brandon.jpg",
+      "image": "/images/image5.jpg",
   
     }
   
