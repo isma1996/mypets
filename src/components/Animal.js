@@ -6,15 +6,15 @@ function Animal(props) {
     var m=props.m
     return (
          <>
-         {/* <div className='card' style={{marginLeft: 40,float:'left' ,width:'30%',height:'600px' ,
+         <div className='card' style={{marginLeft: 40,float:'left' ,width:'30%',height:'600px' ,
          textAlign:'center', border:'solid', borderColor:'black' , backgroundColor:'burlywood'}}>
    
-   <img src={m.image} style={{width:'100%',height:'300px'}}></img>
+      <img src={m.image} style={{width:'100%',height:'300px'}}></img>
      <h3>Nom : {m.nom}</h3>
      <h3>Espece : {m.espece}</h3>
      <h3>Age : {m.age} ans</h3>
      <h3>Description : {m.descr}</h3>
-     </div> */}
+     </div> 
      
  
     <Col>
@@ -33,7 +33,7 @@ function Animal(props) {
         onClick={() => setlike(!like)
          
         }
-      >  {like?"j'adore" :null}  </button>
+      >  {like?"wow" :null}  </button>
         </Card.Body>
       
       </Card>
